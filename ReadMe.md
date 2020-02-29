@@ -4,4 +4,6 @@
 1.	What category of applications have the highest number of installs?
 2.	Does the price of the application affect the number of installs?
 3.	Does Content Rating affect the number of installs?
+## I published an article on medium based on this analysis;
+https://link.medium.com/mqFxeoQpt4
  
