@@ -1,4 +1,4 @@
-#Basic Analysis of Google Play Store Apps
+# Basic Analysis of Google Play Store Apps
 ## This analysis was performed using The Google Play Store App dataset from kaggle using Python. 
 ### This analysis answers these three questions;
 1.	What category of applications have the highest number of installs?
