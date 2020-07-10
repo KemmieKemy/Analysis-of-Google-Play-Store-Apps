@@ -5,5 +5,5 @@ This analysis was performed on the Google Play Store App dataset from kaggle usi
 2.	Does the price of the application affect the number of installs?
 3.	Does Content Rating affect the number of installs?
 ## I published an article on medium based on this analysis;
-https://link.medium.com/mqFxeoQpt4
+[Medium Post](https://link.medium.com/mqFxeoQpt4)
  
